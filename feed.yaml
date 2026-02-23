@@ -1,39 +1,88 @@
-title: The Future in Tech
-subtitle: Powered by LinkedIn Learning
-author: Ray Villalobos
-description: Conversations with leaders building next generation techology tools.
-image: /images/artwork.jpg
-language: en-us
+title: "<![CDATA[AI Zen with Andrew and Jen]]>"
+subtitle: "A podcast where a designer and a data scientist break down how to create awesome AI experiences."
+author: "Andrew Freed & Jennifer Sukis"
+description: "<![CDATA[A podcast where a designer and a data scientist break down how to create awesome AI experiences. Twitter: @AIZenPodcast]]>"
+image: https://media.rss.com/aizen/5ce5fd3465043.png
+language: en
 category: Technology
 format: audio/mpeg
+link: https://sahid1981.github.io/Podcast-test
 item:
-  - title: EP01-What's Happening in 2023
-    description: Ray Villalobos and Content Managers Natalie Pao and Simon St. Laurent discuss what 2023 holds for the future in technology.
-    published: Thu, 12 Jan 2023 18:00:00 GMT
-    file: /audio/TFIT01.mp3
-    duration: 00:00:36
-    length: 576,324
-  - title: EP02-What is Generative AI?
-    description:  Pinar Demirdag discusses the fundamentals of generative AI, its practical applications, and future developments as companies create AI strategies in 2023.
-    published: Thu, 19 Jan 2023 18:00:00 GMT
-    file: /audio/TFIT02.mp3
-    duration: 00:00:22
-    length: 351,963
-  - title: EP03-How Generative AI Will Change DevOps
-    description:  Jerome Hardaway explores how generative AI can revolutionize the software development process by increasing efficiency, automating repetitive tasks, and creating more sophisticated and innovative solutions.
-    published: Thu, 26 Jan 2023 18:00:00 GMT
-    file: /audio/TFIT03.mp3
-    duration: 00:00:19
-    length: 305,488
-  - title: EP04-Building Responsible AI Systems
-    description:   Ayodele Odubela, a Data Scientist, Machine Learning professional and AI Entrepreneur, discusses the ethical issues surrounding the rapid adoption of AI systems, including transparency, minimizing bias, ensuring fairness, and potential ramifications around privacy, security, and governance.
-    published: Thu, 2 Feb 2023 18:00:00 GMT
-    file: /audio/TFIT04.mp3
-    duration: 00:00:29
-    length: 470,668
-  - title: EP05-Crafting an AI Strategy For Your Business
-    description: Andreas Welsch joins this discussion to share insights on crafting an AI strategy for businesses that considers evolving technology, ethics, and legal implications, drawing from his extensive experience in managing stakeholder relationships and leading AI projects across Fortune 500 companies.
-    published: Thu, 9 Feb 2023 18:00:00 GMT
-    file: /audio/TFIT05.mp3
-    duration: 00:00:22
-    length: 352,587
+  - title: <![CDATA[Privacy by Design]]>
+    description: <![CDATA[In this episode we get to talk with Nishant Bhajaria, author of Privacy by Design and leader of data privacy teams at Google, Uber, Netflix and Nike about designing and developing ways to protect your users and their data.]]>
+    published: Wed, 03 Feb 2021 20:36:14 GMT
+    file: https://media.rss.com/aizen/20210203_203436_185fb1be305f537c2192976b2876b07e.mp3
+    duration: 00:45:16
+    length: 65215023
+  - title: <![CDATA[The need to know what we don't know]]>
+    description: <![CDATA[We all have implicit biases and assumptions that come into play whenever we're designing and building stuff. Jen and Andrew share the sad, the horrifying and the sometimes amusing stories of what happens when we don't ask what we don't know and just keep on going without identifying our blindspots.]]>
+    published: Mon, 30 Nov 2020 21:17:08 GMT
+    file: https://media.rss.com/aizen/20201130_211553_37196d0189afb12c45eca307745f7d5a.mp3
+    duration: 00:35:03
+    length: 50513123
+  - title: <![CDATA[The future of designing the future]]>
+    description: <![CDATA[Andrew and Jen bounce ideas around with futurist Clayton Bunyard, Ph.D., about biological design thinking, weird skills we'll need in the future, STEM vs STEAM, and how video conferencing tools are going to get much, much better.]]>
+    published: Tue, 04 Aug 2020 00:44:30 GMT
+    file: https://media.rss.com/aizen/20200804_004431_f14341648d3301058046864d4302e329.mp3
+    duration: 00:58:17
+    length: 83957361
+  - title: <![CDATA[Designing valuable, feasible AI use cases]]>
+    description: <![CDATA[Andrew asks Jen about her methods for helping teams vet and prioritize all the ways AI could be designed into their products.]]>
+    published: Fri, 06 Mar 2020 17:12:25 GMT
+    file: https://media.rss.com/aizen/20200306_180009_73488fbdca54706a9232decdc5605085.mp3
+    duration: 00:29:32
+    length: 42487029
+  - title: <![CDATA[AI under the hood]]>
+    description: <![CDATA[Jen and Andrew get into the inner workings of a few simple AI applications and exactly HOW those magic-like experiences are built.]]>
+    published: Mon, 20 Jan 2020 22:26:08 GMT
+    file: https://media.rss.com/aizen/20200120_222611_3183b6db7f5e724584703d00564bbea2.mp3
+    duration: 00:00:00
+    length: 77513055
+  - title: <![CDATA[AI we can be thankful for]]>
+    description: <![CDATA[AI has done so many good things for us already. For Thanksgiving, Andrew and Jen reflect on how AI is improving our lives, our world, and our futures.]]>
+    published: Fri, 22 Nov 2019 22:32:28 GMT
+    file: https://media.rss.com/aizen/2019-11-22_ai_zen-episode_8.mp3
+    duration: 00:27:02
+    length: 38964799
+  - title: <![CDATA[AI horror show!]]>
+    description: <![CDATA[Three tales of AI nightmares and apocalyptic robots. Andrew and Jen go to the dark places of our possible horrific futures with AI.]]>
+    published: Wed, 13 Nov 2019 02:54:00 GMT
+    file: https://media.rss.com/aizen/2019-11-13_ai_zen-episode_7.mp3
+    duration: 00:33:03
+    length: 47636142
+  - title: <![CDATA[Data drives research, drives design, drives data]]>
+    description: <![CDATA[Keith Vertrees, Director of User Research with a background in data science, talks data driven design, the data skills designers need, and why we should spend 90% of our time identifying the problem.]]>
+    published: Fri, 23 Aug 2019 18:20:00 GMT
+    file: https://media.rss.com/aizen/2019-08-23_ai_zen-episode_6.mp3
+    duration: 00:31:56
+    length: 46017705
+  - title: <![CDATA[Can data and design come together?]]>
+    description: <![CDATA[What's going happen as data and design teams work closer and closer together to continuously deliver AI? Will roles overlap? Will skills transfer?]]>
+    published: Fri, 16 Aug 2019 19:13:00 GMT
+    file: https://media.rss.com/aizen/2019-08-16_ai_zen-episode_5.mp3
+    duration: 00:29:57
+    length: 43166502
+  - title: <![CDATA[A wee bit about model maintenance]]>
+    description: <![CDATA[Why can't I just launch my AI widget and be done? Andrew tells us about what to expect and plan for once you've set your AI free.]]>
+    published: Fri, 02 Aug 2019 19:21:00 GMT
+    file: https://media.rss.com/aizen/2019-08-02_ai_zen-episode_4.mp3
+    duration: 00:25:20
+    length: 36509241
+  - title: <![CDATA[Oh no, AI mistakes!]]>
+    description: <![CDATA[Did you know you can design your AI system to tell you how it needs to be fixed? In episode three we talk about some real world examples of false/positives and true/negatives.]]>
+    published: Sat, 27 Jul 2019 03:29:00 GMT
+    file: https://media.rss.com/aizen/2019-07-27_ai_zen-episode_3.mp3
+    duration: 00:27:40
+    length: 39859227
+  - title: <![CDATA[Designing with AI]]>
+    description: <![CDATA[How designing for AI is the same as designing for "not AI" and how it differs from other types of design. The kinds of things AI can be used to design for.]]>
+    published: Mon, 03 Jun 2019 21:41:00 GMT
+    file: https://media.rss.com/aizen/2019-06-03_ai_zen-episode_2.mp3
+    duration: 00:20:08
+    length: 28997604
+  - title: <![CDATA[Starting your AI project]]>
+    description: <![CDATA[My executive told me to add AI to my project, now what? Should I use AI or rules? Adding ML to your project.]]>
+    published: Thu, 23 May 2019 01:48:13 GMT
+    file: https://media.rss.com/aizen/2019-05-23_aizen-episode1.mp3
+    duration: 00:21:25
+    length: 30880503
