@@ -38,11 +38,9 @@ for item in yaml_data['item']:
         'length': str(item['length'])
     })
 
-# Pretty print the XML
+# Edit the xml file to be more readable
 xml_str = minidom.parseString(xml_tree.tostring(rss_element)).toprettyxml(indent='  ')
-# Remove extra blank lines
 xml_str = '\n'.join([line for line in xml_str.split('\n') if line.strip()])
-# Fix the XML declaration
 xml_str = xml_str.replace('<?xml version="1.0" ?>', '<?xml version="1.0" encoding="UTF-8"?>', 1)
 
 with open('podcast.xml', 'w') as f:
